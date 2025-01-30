@@ -1,0 +1,11 @@
+.\output\obj\arm_sin_f32.o: ..\ChibiOS_3.0.2\os\ext\CMSIS\DSP_Lib\Source\FastMathFunctions\arm_sin_f32.c
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\arm_math.h
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\core_cm4.h
+.\output\obj\arm_sin_f32.o: C:\Keil\Keil_v506\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\core_cmInstr.h
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\core_cmFunc.h
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\core_cmSimd.h
+.\output\obj\arm_sin_f32.o: C:\Keil\Keil_v506\ARM\ARMCC\Bin\..\include\string.h
+.\output\obj\arm_sin_f32.o: .\..\math.h
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\arm_math.h
+.\output\obj\arm_sin_f32.o: .\..\ChibiOS_3.0.2\os\ext\CMSIS\include\arm_common_tables.h
